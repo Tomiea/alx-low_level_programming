@@ -1,7 +1,8 @@
 #include "main.h"
+
 /**
  * main - print _putchar
- * is written by tomie
+ *
  * Return: 0
  */
 
